@@ -19,3 +19,7 @@ fn new_feature_added_b() {
     println!("this time we will create a very good microservice");
     println!("This is a new feature.");
 }
+fn new_feature_added_c() {
+    println!("this time we will create a very good microservice");
+    println!("This is a new feature.");
+}
