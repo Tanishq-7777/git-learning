@@ -27,3 +27,8 @@ fn new_feature_added_d() {
     println!("this time we will create a very good microservice");
     println!("This is a new feature.");
 }
+fn new_feature_added_e() {
+    println!("this time we will create a very good microservice");
+    println!("This is a new feature.");
+}
+
