@@ -13,4 +13,5 @@ fn y() {
 }
 fn new_feature_added() {
     println!("this time we will create a very good microservice");
+    println!("This is a new feature.");
 }
