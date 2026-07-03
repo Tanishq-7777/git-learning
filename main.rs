@@ -3,4 +3,7 @@ fn main() {
     let a:i32 = 10;
     let b:i32 = 20;
     println!("{}",a+b);
+    let x = "hey";
+    let val_x = || println!("{x}");
+    val_x();
 }
